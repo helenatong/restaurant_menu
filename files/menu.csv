@@ -1,0 +1,27 @@
+;FL_ON_LUNCH;FL_ON_DINNER;LB_CATEGORY;LB_DISH_NAME;LB_DISH_SHORT_DESC;LB_DISH_LONG_DESC;NBR_DISH_PRICE
+0;0.0;0.0;Cocktail;Martini Expresso;vodka, liqueur de café, sirop d'orgeat, expresso lavazza;;11.0
+1;1.0;1.0;Cocktail;Porn Star Martini;vodka, liqueur de fruit de la passion, sirop de vanille, jus de citron, nectar de maracuja;;12.0
+2;1.0;1.0;Dessert;Café gourmand;assortiment de 4 minis desserts;;10.0
+3;1.0;1.0;Dessert;Cheesecake, coulis fruit rouge;;;8.0
+4;1.0;1.0;Dessert;Crème brulée à la vanille;;;8.5
+5;1.0;1.0;Dessert;Mousse au chocolat // Mi-Cuit au chocolat; crème anglaise, chantilly;;8.0
+6;1.0;1.0;Dessert;Panna Cotta;coulis de fruit rouge;;8.0
+7;1.0;1.0;Dessert;Soupe de fruits frais avec glace vanille;;;10.0
+8;1.0;1.0;Dessert;Tarte au citron meringuée // Tarte aux possmes;;;8.0
+9;1.0;1.0;Dessert;Tiramisu // Tiramisu Nocciolata;;;8.0
+10;1.0;1.0;Dessert;Île flottante;crème anglaise maison et sauce caramel;;8.0
+11;1.0;1.0;Entrée;Oeufs durs, mayonnaise maison;;;6.0
+12;1.0;1.0;Entrée;Salade de chèvre;;;7.9
+13;1.0;1.0;Entrée;Tomate mozzarella di bufala;;;8.9
+14;1.0;1.0;Plats;Pavé de saumon;tagliatelle, sauce gambas;;22.0
+15;1.0;1.0;Plats;Pizza Diavola;tomate, mozarella fior di latte, spianata picante (chorizo), œuf;;14.0
+16;1.0;1.0;Plats;Rigatoni à la sicilienne;aubergine, sauce tomate, mozzarella gratinée;;18.0
+17;1.0;1.0;Suggestions du chef;Antipasto di legumi et burrata;(légumes frais et marinés: courgette, aubergine, poivron, tomate séchée);;22.0
+18;0.0;1.0;Suggestions du chef;Boisson du moment: Lambrusco rosé (vin pétillant et doux);;;24.0
+19;1.0;1.0;Suggestions du chef;"Filet de bœuf ~220g ""Aubrac""";tagliatelle, sauce gorgonzola;;32.0
+20;1.0;1.0;Suggestions du chef;Linguine Vongole;palourdes fraîches de France, tomate cerise, persillade;;26.0
+21;1.0;1.0;Suggestions du chef;Noix de Saint-Jacques fraîches et françaises;sauce gambas, écrasé de pomme de terre maison;;32.0
+22;1.0;1.0;Suggestions du chef;Penne pesto et jambon de Parme;;;18.0
+23;1.0;1.0;Suggestions du chef;Pizza apéritif;à partager ou pas (tomate, mozzarella fior di latte, oignon, persillade), servi découpé;;13.9
+24;0.0;1.0;Suggestions du chef;Rigatoni aux 3 fromages, Coppa;;;18.0
+25;0.0;1.0;Suggestions du chef;Scaloppina ai funghi;spaguettis (escalope de veau, crème, champignon, mozzarella gratinée);;25.0
